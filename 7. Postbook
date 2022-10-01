@@ -1,0 +1,5 @@
+1. Flag: It says "The person with username "user" has a very easy password..." in hints, so i guess it as "password" and it was correct.
+
+2. Flag: When we login, we see there are 2 post: one of written by us and second by admin. 
+         I wanted to check whether there is authentication in edit page: .....ctf.hacker101.com/index.php?page=edit.php&id=3. I change id to 1 which post written by admin. It allowed
+         me to edit post. When i edited the post, i got second flag.
